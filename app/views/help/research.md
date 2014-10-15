@@ -16,13 +16,16 @@ Divisions can be marked as relevant to a pre-existing policy (see [Policies](htt
 Division titles are currently made up of three parts that are separated by a dash.
 
 For divisions on bills, these three parts are:
+
 1. name of the bill
 2. stage of the debate
 3. subject matter of the motion being voted on
 
 Example: *Minerals Resource Rent Tax Repeal and Other Measures Bill 2014 - Third Reading - Read a third time*
 
+
 For divisions on all other motions (eg Document motions), the three parts are:
+
 1. type of motion
 2. subject matter that the motion is related to
 3. subject matter of the motion being voted on
